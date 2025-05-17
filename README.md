@@ -5,7 +5,9 @@
 - 增强HTML解析能力，实现对特定模板结构的智能识别
 - 添加元数据提取功能，支持YAML front matter生成
 - 优化Markdown转换逻辑，确保内容格式的准确转换
+
   ![导入示例](https://im.gurl.eu.org/file/AgACAgEAAxkDAAJgP2goajShfTBOFNPbxOSUKP4Vt-PjAALdrjEbOYtARS5EbLdWN9cLAQADAgADdwADNgQ.png)
+  
 ## Get笔记的导出模板结构
 
 Get笔记导出的数据包含一个主索引文件 `index.html` 和一个 `notes` 文件夹，其中存放各个单独的笔记HTML文件。
