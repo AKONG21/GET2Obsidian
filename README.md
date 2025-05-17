@@ -1,0 +1,2 @@
+# GET2Obsidian
+基于Obsidian Importer插件的HTML导入功能进行扩展开发的Get笔记导入工具
