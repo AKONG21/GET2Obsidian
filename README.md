@@ -6,11 +6,12 @@
 - 添加元数据提取功能，支持YAML front matter生成
 - 优化Markdown转换逻辑，确保内容格式的准确转换
 
-[![导入示例](https://i.im.ge/2025/05/17/vWhDrX.1747478522649.png)]
+![效果示例](https://github.com/user-attachments/assets/e401a811-6ae0-4a59-9101-02b42e163959)
   
 ## Get笔记的导出模板结构
 
 Get笔记导出的数据包含一个主索引文件 `index.html` 和一个 `notes` 文件夹，其中存放各个单独的笔记HTML文件。
+
 
 **1. 主索引文件 (`index.html`) 结构:**
 
