@@ -6,7 +6,7 @@
 - 添加元数据提取功能，支持YAML front matter生成
 - 优化Markdown转换逻辑，确保内容格式的准确转换
 
-  ![导入示例](https://im.ge/i/1747478522649.vWhDrX?raw=true)
+[![导入示例](https://i.im.ge/2025/05/17/vWhDrX.1747478522649.png)]
   
 ## Get笔记的导出模板结构
 
